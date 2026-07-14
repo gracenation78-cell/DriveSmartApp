@@ -1,0 +1,6 @@
+{
+  "name": "DriveSmart",
+  "description": "AI-Powered Driving School Management & Learning Platform for students, instructors, administrators, and partner schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
